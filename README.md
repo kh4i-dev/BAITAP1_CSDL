@@ -108,7 +108,6 @@ Tạo Database `quanlysinhvientnut` và thiết lập nơi lưu trữ các tệp
 
 <img src="images/16.png" width="100%">
 
-
 ---
 
 ## 3. Khởi tạo cấu trúc bảng (Yêu cầu 7)
