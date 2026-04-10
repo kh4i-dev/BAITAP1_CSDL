@@ -125,6 +125,7 @@ create table danhsachsinhvien (
     noisinh NVARCHAR(100),
     diachi NVARCHAR(500)
 );
+
 ```
 ### Kết quả tạo bảng
 
