@@ -242,6 +242,7 @@ select 'SaoHoa' AS TenBang, count(*) as SoLuong from SaoHoa;
 Sử dụng `UNION ALL` để so sánh số lượng bản ghi giữa bảng gốc và bảng phụ sau khi lọc dữ liệu.
 
 <img src="images/24_2.png" width="100%">
+
 ## 7. Xuất Script tổng hợp (Yêu cầu 14)
 
 Sử dụng tính năng **Generate Scripts** để sao lưu toàn bộ cấu trúc bảng và dữ liệu (Schema and Data) ra tệp tin script.
@@ -269,6 +270,7 @@ Thực hiện xóa Database trên giao diện SSMS và kiểm tra thư mục lư
 ### 8.1 Xóa Database bằng giao diện SSMS
 
 <img src="images/27.png" width="100%">
+
 ---
 
 ### 8.2 Kiểm tra thư mục dữ liệu sau khi xóa
