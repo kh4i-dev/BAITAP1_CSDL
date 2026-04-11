@@ -188,9 +188,13 @@ go
 ### Câu lệnh SQL
 
 ```sql
+use quanlysinhvientnut;
+go
+-- yc 11
 update danhsachsinhvien
-set noisinh = n'sao hoả'
-where noisinh is null and diachi is null;
+set noisinh = n'sao hỏa'
+where (noisinh is null or noisinh = 'null')
+  and (diachi is null or diachi = 'null');
 go
 ```
 Cập nhật trường `noisinh` thành `"Sao Hỏa"` với các bản ghi có cả `noisinh` và `diachi` đều NULL.
