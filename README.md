@@ -1,5 +1,5 @@
-# BAITAP1_CSDL  
-## BÁO CÁO THỰC HÀNH CƠ SỞ DỮ LIỆU - BÀI SỐ 1  
+# BAITAP1_HCSQTDL  
+## THỰC HÀNH HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU - BÀI SỐ 1  
 
 ---
 
