@@ -224,7 +224,7 @@ Xóa các sinh viên có họ Trần trong bảng `SaoHoa`.
 
 ```sql
 delete from saohoa
-where hotensv like n'nguyen%';
+where hotensv like n'tran%';
 go
 ```
 
